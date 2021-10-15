@@ -1,0 +1,11 @@
+Part 3 - Cybersecurity Research¶
+Research major cybersecurity breaches over the past 20 years and pick one to write a short essay on.
+
+Give an overview of what the breach was and the motivations behind it.
+
+Explain where the “tech flaws” were, and how hackers were able to breach their system.
+
+What has the company done to protect against that vulnerability since?
+
+The cybersecurity breach that I chose was the Marriott International breech of 2018. This breach was discovered in November of 2018, but the hackers had gained access way back in 2014.  The breach has been linked to a Chinese intelligence group called "The Ministry of State Security" and they acquired data and compromised the data of 500 million customers in order to gather information about U.S. citizens. The type of information that was compromised included credit card information, personal information, passport numbers, etc.
+It is unclear how access was gained but I will continue to research this to find a better answer. 

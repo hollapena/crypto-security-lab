@@ -1,0 +1,28 @@
+I decided to multiply the letter by the number of the opposite letter and subtract the number of the letter ahead of it. 
+Then I wanted to nest the entire thing in a scramble of numbers, and have the user only decode every 3rd number.
+
+Example: A=1 so multiply it by Z=2
+            26
+        then subtract B=3
+         A=-1
+The "opposites" are as follows         
+A(1) = Z(2)
+B(3) = Y(4)
+C(5) = X(6)
+D(7) = W(8)
+E(9) = V(10)
+F(11) = U(12)
+G(13) = T(14)
+H(15) = S(16)
+I(17) = R(18)
+J(19) = Q(20)
+K(21) = P(22)
+L(23) = O(24)
+M(25) = N(26)
+
+Completed Cipher:
+23 896 287 98 75 527 532 76 530 99 896 82 442 287 79 290 56 23 -1 47 290 325 61 10 561 23 442 142 99 170 232 -45 530 28 146 167 334 -27 290 -6 531 -1 -8 55 442 84 712 223 95 231 10 -65 425
+
+Decoded:
+i love cryptography
+
